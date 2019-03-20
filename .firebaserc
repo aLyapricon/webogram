@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "polysys-global": {
+      "hosting": {
+        "telegram": [
+          "telegram-peremoga"
+        ]
+      }
+    }
+  }
+}
